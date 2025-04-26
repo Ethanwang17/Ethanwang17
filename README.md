@@ -30,12 +30,4 @@ I'm a software developer passionate about building sleek, intuitive web experien
 
 ---
 
-## 🔥 Now
-
-- Building my personal portfolio from scratch using Next.js, Tailwind, and Framer Motion
-- Expanding backend skills with Node.js, Express, and serverless architectures
-- Learning about scalable systems and cloud engineering best practices
-
----
-
 ✅ Thanks for stopping by! Let's create something impactful together.
